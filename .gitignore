@@ -3,5 +3,4 @@ node_modules
 resources_unversioned
 dist/
 docs/
-package-lock.json
 yarn.lock
