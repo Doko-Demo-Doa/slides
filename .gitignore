@@ -1,0 +1,7 @@
+node_modules
+.vscode
+resources_unversioned
+dist/
+docs/
+package-lock.json
+yarn.lock
