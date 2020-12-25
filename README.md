@@ -2,7 +2,7 @@
 
 Sau khi build, các slide sẽ có dạng file HTML và có thể dùng để xem offline.
 
-This is a starter template for rehype slides
+Các slide được tự động deploy và có thể xem tại [đây](https://it-slides.aniviet.com/)
 
 ## Build
 

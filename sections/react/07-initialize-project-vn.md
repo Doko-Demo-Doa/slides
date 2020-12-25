@@ -4,7 +4,7 @@
 
 - node.js: JS-Runtime
   - Chạy server dev local
-  - Uni test
+  - Unit test
 - npm: package manager: bộ quản lý các gói công cụ
   - Quản lý thư viện
   - Các package cài đặt đều nằm ở _node_modules_
