@@ -3,7 +3,6 @@
 ## Chủ đề chính
 
 - Tổng quan về React
-- JS basics for React
 - Declarative rendering / làm việc với state
 - Cú pháp JSX
 - Sử dụng component có sẵn
