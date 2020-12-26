@@ -4,3 +4,4 @@ resources_unversioned
 dist/
 docs/
 yarn.lock
+.DS_Store
