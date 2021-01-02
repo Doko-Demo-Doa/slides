@@ -1,6 +1,6 @@
-# JSX in detail
+# JSX chi tiết
 
-## JSX in detail
+## JSX chi tiết
 
 mục lục:
 
