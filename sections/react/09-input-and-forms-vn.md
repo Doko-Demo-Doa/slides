@@ -12,8 +12,6 @@ Do đó sẽ có một số phương diện của UI state sẽ không được 
 
 Đây là cách ta điều khiển và theo dõi giá trị của `input` trong state:
 
-This is how we can capture changes and track them in the state:
-
 ```jsx
 const [inputText, setInputText] = useState('');
 
